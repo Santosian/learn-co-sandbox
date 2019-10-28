@@ -1,2 +1,3 @@
 p "hello ELSANTI"
-puts "what are you looking at, you got to log in"
+# From the Three Dog Night song
+puts "joy the world"
