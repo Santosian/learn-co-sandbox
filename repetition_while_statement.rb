@@ -7,6 +7,7 @@ bruit_voisin_01 = -8 #=> dB
 
 volume_people_room = 0 #=> dB
 
+<<<<<<< HEAD
 while bruit_voisin_01 >= -8 && volume_people_room <= 10 do
   puts "quel ennui ces #{volume_people_room} decibeles!"# complain of x numbers of dB
   volume_people_room += 2
@@ -16,6 +17,12 @@ if volume_people_room =10
   puts "Comment ca"
 end
  
+=======
+while bruit_voisin_01 >= -8 && volume_people_room <= 2 do
+  puts "quel ennui ces #{bruit_voisin_01} decibeles!"# complain of the computer for noise
+  bruit_voisin_01 += 2
+end
+
 
 
 
